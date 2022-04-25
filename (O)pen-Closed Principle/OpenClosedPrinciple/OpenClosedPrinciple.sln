@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Bed", "OCP_Bed\OCP_Bed.csproj", "{0826E3EE-E772-498C-8BB9-F194C3361EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Validate", "OCP_Validate\OCP_Validate.csproj", "{1EFAE2B1-3CF1-434B-A220-EA46F9714B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0826E3EE-E772-498C-8BB9-F194C3361EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0826E3EE-E772-498C-8BB9-F194C3361EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0826E3EE-E772-498C-8BB9-F194C3361EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0826E3EE-E772-498C-8BB9-F194C3361EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFAE2B1-3CF1-434B-A220-EA46F9714B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFAE2B1-3CF1-434B-A220-EA46F9714B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFAE2B1-3CF1-434B-A220-EA46F9714B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFAE2B1-3CF1-434B-A220-EA46F9714B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71C6D8B6-D2BB-4B04-9A2F-3EE538F7FE83}
+	EndGlobalSection
+EndGlobal

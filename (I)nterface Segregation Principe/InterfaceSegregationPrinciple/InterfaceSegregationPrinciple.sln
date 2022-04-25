@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Bed", "ISP_Bed\ISP_Bed.csproj", "{1ADAAD97-23A5-42FA-B41F-5FC6B0009A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Validate", "ISP_Validate\ISP_Validate.csproj", "{4C15E717-40F4-4820-91CB-FBF67993A5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADAAD97-23A5-42FA-B41F-5FC6B0009A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADAAD97-23A5-42FA-B41F-5FC6B0009A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADAAD97-23A5-42FA-B41F-5FC6B0009A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADAAD97-23A5-42FA-B41F-5FC6B0009A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C15E717-40F4-4820-91CB-FBF67993A5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C15E717-40F4-4820-91CB-FBF67993A5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C15E717-40F4-4820-91CB-FBF67993A5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C15E717-40F4-4820-91CB-FBF67993A5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12ED9C32-9D7C-462A-891D-D58E6AF486B1}
+	EndGlobalSection
+EndGlobal
