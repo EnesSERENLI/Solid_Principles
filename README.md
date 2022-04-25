@@ -10,7 +10,7 @@
 ### Thus, we should solve the problems by making new additions to the existing codes, not by changing the previously written codes.
 ![SinglePrinciple](https://user-images.githubusercontent.com/90280719/138156626-76aa75d3-a21c-43f5-846d-ee728d85f100.png)
 
-## 2-[*Open-Closed*](https://miro.medium.com/max/1400/1*UhvaCg9qOCYZyDJZh180hQ.png)
+## 2-[*Open-Closed*](https://github.com/EnesSERENLI/SOLID/tree/main/(O)pen-Closed%20Principle/OpenClosedPrinciple)
 
 ### Objects should be interchangeable with their own sub-properties without causing problems while the program is running.
 ### Derived classes must use all the properties of the base class. Thus, unnecessary code stack is not created.
