@@ -2,7 +2,7 @@
 
 ## SOLID software principles; It is a set of principles that ensure that the developed software is flexible, reusable, sustainable and understandable, and prevents code duplication.
 
-# SOLID Principle
+# SOLID Principles:
 
 ## 1-[*SingleResponsibility*](https://github.com/EnesSERENLI/SOLID/tree/main/(S)ingle%20Responsibility%20Principle)
 
