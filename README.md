@@ -12,8 +12,9 @@
 
 ## 2-[*Open-Closed*](https://github.com/EnesSERENLI/SOLID/tree/main/(O)pen-Closed%20Principle/OpenClosedPrinciple)
 
-### Objects should be interchangeable with their own sub-properties without causing problems while the program is running.
-### Derived classes must use all the properties of the base class. Thus, unnecessary code stack is not created.
+### Objects or methods must be open to expansion but closed to modifications.
+### We should solve the problems by making new additions to the existing codes, not changing the previously written codes in the project.
+
 ![Open-Closed](https://miro.medium.com/max/1400/1*XEtQ5hCa0uYTGQ38usgquQ.jpeg)
 ## 3-[*LiskovSubstitution*](https://github.com/EnesSERENLI/SOLID/tree/main/(L)%C4%B0skov's%20Substititon%20Principle/L%C4%B0skovSubstititonPrinciple)
 
